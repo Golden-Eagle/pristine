@@ -14,7 +14,7 @@ gecom_add_default_compile_options()
 
 # pristine lib target
 add_subdirectory(src/pristine)
-set_property(TARGET gecom PROPERTY FOLDER "PRISTINE")
+set_property(TARGET pristine PROPERTY FOLDER "PRISTINE")
 
 # test exe target
 add_subdirectory(src/pristine_main)
