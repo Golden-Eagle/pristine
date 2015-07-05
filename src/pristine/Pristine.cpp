@@ -1,0 +1,10 @@
+
+
+namespace pristine {
+	
+	void dummy() {
+		
+	}
+	
+}
+
